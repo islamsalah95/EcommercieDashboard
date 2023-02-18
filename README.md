@@ -9,12 +9,11 @@
 
 ## About Project
 
-Here i produce small project about Ecommercie-Dashboard laravel Backend and Vuejs frontend ,
-the website have 3 categories you can 
-1- add any product for any category 
-2- update any product 
-3- delete  any product for any category 
-in main page you can get information about all categories products .
+I would like to share a sample project I have created recently about E-commerce-Dashboard Laravel Backend and Vuejs frontend, the website has 3 categories you can
+ 1- add any product for any category
+ 2- update any product 
+3- delete any product from any category
+4 main page you can get information about all categories products.
 
 **********You can see video in folder Important it see what are prject features .
 
